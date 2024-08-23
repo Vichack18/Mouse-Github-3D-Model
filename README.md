@@ -1,0 +1,1 @@
+Hi guys! This is a Mouse 3D Model with the Github logo. I hope you enjoy this project, feel free to use it! I made it on Autodesk Fusion 360 and I shared with you in this repo a .STL file where you can open it with Solidworks, ThinkerCAD and others apps.
